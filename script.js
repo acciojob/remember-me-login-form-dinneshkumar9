@@ -2,7 +2,7 @@
 const form = document.querySelector('form');
 const usernameInput = document.getElementById('username');
 const passwordInput = document.getElementById('password');
-const rememberInput = document.getElementById('remember');
+const rememberInput = document.getElementById('checkbox');
 const submitButton = document.getElementById('submit');
 const existingButton = document.getElementById('existing');
 
